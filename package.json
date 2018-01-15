@@ -1,0 +1,31 @@
+{
+  "name": "microbundle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loatheb/microbundle.git"
+  },
+  "keywords": [
+    "webpack",
+    "bundle"
+  ],
+  "author": "loatheb <loatheb.zhao@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loatheb/microbundle/issues"
+  },
+  "homepage": "https://github.com/loatheb/microbundle#readme",
+  "dependencies": {
+    "commander": "^2.13.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
